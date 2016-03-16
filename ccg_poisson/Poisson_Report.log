@@ -1,0 +1,883 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 MAR 2016 01:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Poisson_Report.tex
+(./Poisson_Report.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/09/25 3.9l The Babel package
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/09/25 3.9l Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks14
+\float@box=\box26
+\@float@everytoks=\toks15
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2013/06/09 v2.4 Extended list environments
+\pltopsep=\skip43
+\plpartopsep=\skip44
+\plitemsep=\skip45
+\plparsep=\skip46
+\pl@lab=\toks16
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen106
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen107
+\subfiglabelskip=\skip50
+\c@subfigure=\count90
+\c@lofdepth=\count91
+\c@subtable=\count92
+\c@lotdepth=\count93
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2015/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count94
+\Gm@cntv=\count95
+\c@Gm@tempcnt=\count96
+\Gm@bindingoffset=\dimen108
+\Gm@wd@mp=\dimen109
+\Gm@odd@mp=\dimen110
+\Gm@even@mp=\dimen111
+\Gm@layoutwidth=\dimen112
+\Gm@layoutheight=\dimen113
+\Gm@layouthoffset=\dimen114
+\Gm@layoutvoffset=\dimen115
+\Gm@dimlist=\toks18
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks19
+\ex@=\dimen116
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen117
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks20
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks21
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks22
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(./Poisson_Report.aux
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `analytical function 3D' multiply defined.
+
+
+LaTeX Warning: Label `sub@analytical function 3D' multiply defined.
+
+
+LaTeX Warning: Label `analytical function 2D' multiply defined.
+
+
+LaTeX Warning: Label `sub@analytical function 2D' multiply defined.
+
+
+LaTeX Warning: Label `Jacobi 3D' multiply defined.
+
+
+LaTeX Warning: Label `sub@Jacobi 3D' multiply defined.
+
+
+LaTeX Warning: Label `Jacobi 2D' multiply defined.
+
+
+LaTeX Warning: Label `sub@Jacobi 2D' multiply defined.
+
+
+LaTeX Warning: Label `GS 3D' multiply defined.
+
+
+LaTeX Warning: Label `sub@GS 3D' multiply defined.
+
+
+LaTeX Warning: Label `GS 2D' multiply defined.
+
+
+LaTeX Warning: Label `sub@GS 2D' multiply defined.
+
+
+LaTeX Warning: Label `SOR 3D' multiply defined.
+
+
+LaTeX Warning: Label `sub@SOR 3D' multiply defined.
+
+
+LaTeX Warning: Label `SOR 2D' multiply defined.
+
+
+LaTeX Warning: Label `sub@SOR 2D' multiply defined.
+
+
+LaTeX Warning: Label `jacobi error 1' multiply defined.
+
+
+LaTeX Warning: Label `sub@jacobi error 1' multiply defined.
+
+
+LaTeX Warning: Label `gs error' multiply defined.
+
+
+LaTeX Warning: Label `sub@gs error' multiply defined.
+
+
+LaTeX Warning: Label `sor error' multiply defined.
+
+
+LaTeX Warning: Label `sub@sor error' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `error' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+
+LaTeX Warning: Label `Algebraic Convergence' multiply defined.
+
+)
+\openout1 = `Poisson_Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+ (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen126
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 441.01775pt, 85.35826pt)
+* v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01775pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.13812pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/grid.png, id=16, 
+722.7pt x 542.025pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/grid.png Gra
+phic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/grid.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/grid.png used on input line 99.
+(pdftex.def)             Requested size: 308.71107pt x 231.53613pt.
+
+[2 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/grid.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/stencil_bc.png, i
+d=20, 722.7pt x 542.025pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/stencil_bc.p
+ng Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/stencil_bc.pn
+g>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/stencil_bc.png used on input line 132.
+(pdftex.def)             Requested size: 308.71107pt x 231.53613pt.
+ [3 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/stencil_bc.pn
+g>] [4] [5]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an3d.png, id=30
+, 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an3d.png G
+raphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an3d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/p_an3d.png used on input line 235.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2d.png, id=32
+, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2d.png G
+raphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/p_an2d.png used on input line 236.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case1.png, i
+d=33, 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case1.p
+ng Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case1.pn
+g>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/J_3D_case1.png used on input line 238.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case1.png, i
+d=34, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case1.p
+ng Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case1.pn
+g>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/J_2D_case1.png used on input line 239.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3d.png, id=35,
+ 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3d.png Gr
+aphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pGS3d.png used on input line 241.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2d.png, id=36,
+ 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2d.png Gr
+aphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pGS2d.png used on input line 242.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3d.png, id=37
+, 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3d.png G
+raphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pSOR3d.png used on input line 244.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR2d.png, id=38
+, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR2d.png G
+raphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR2d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pSOR2d.png used on input line 245.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+
+[6 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an3d.png> </
+Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2d.png> </Users
+/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case1.png> </Users/
+Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case1.png> </Users/L
+uis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3d.png> </Users/Luis/Do
+cuments/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2d.png> </Users/Luis/Document
+s/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3d.png> </Users/Luis/Documents/GW/
+MAE6225_cfd/ccg_poisson/latex_plots/pSOR2d.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_g1_w
+1.png, id=51, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1
+_g1_w1.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_
+g1_w1.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/algb_conv_c1_g1_w1.png used on input line 257.
+(pdftex.def)             Requested size: 308.71107pt x 192.94264pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errj_c1_g1_w1.png
+, id=52, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errj_c1_g1_w
+1.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errj_c1_g1_w1
+.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/errj_c1_g1_w1.png used on input line 293.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errgs_c1_g1_w1.pn
+g, id=53, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errgs_c1_g1_
+w1.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errgs_c1_g1_w
+1.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/errgs_c1_g1_w1.png used on input line 294.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_g1_w1.p
+ng, id=54, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_g1
+_w1.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_g1_
+w1.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/errsor_c1_g1_w1.png used on input line 295.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+ [7 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_
+g1_w1.png>]
+Overfull \vbox (37.62343pt too high) has occurred while \output is active []
+
+
+[8 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errj_c1_g1_w1.
+png> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errgs_c1_g1_
+w1.png> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1
+_g1_w1.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_g1_w
+1_omega.png, id=66, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1
+_g1_w1_omega.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_
+g1_w1_omega.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/algb_conv_c1_g1_w1_omega.png used on input line 303.
+(pdftex.def)             Requested size: 220.50887pt x 137.81618pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_g3_w
+1_omega.png, id=67, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1
+_g3_w1_omega.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_
+g3_w1_omega.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/algb_conv_c1_g3_w1_omega.png used on input line 313.
+(pdftex.def)             Requested size: 220.50887pt x 137.81618pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1_w1_o
+mega.png, id=68, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1
+_w1_omega.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1_
+w1_omega.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/err_an_c1_g1_w1_omega.png used on input line 323.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+ [9 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c1_
+g1_w1_omega.png> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/
+algb_conv_c1_g3_w1_omega.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 330--331
+
+ []
+
+
+Overfull \hbox (16.18442pt too wide) in paragraph at lines 334--335
+$[]\OT1/cmr/m/n/10 ?$ 
+ []
+
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1_nfre
+q.png, id=74, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1
+_nfreq.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1_
+nfreq.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/err_an_c1_g1_nfreq.png used on input line 361.
+(pdftex.def)             Requested size: 176.4044pt x 176.40471pt.
+ [10 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1
+_w1_omega.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_w4_nfre
+q.png, id=80, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_w4
+_nfreq.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_w4_
+nfreq.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/errsor_c1_w4_nfreq.png used on input line 373.
+(pdftex.def)             Requested size: 176.4044pt x 176.40471pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_w5_nfre
+q.png, id=81, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_w5
+_nfreq.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_w5_
+nfreq.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/errsor_c1_w5_nfreq.png used on input line 385.
+(pdftex.def)             Requested size: 176.4044pt x 176.40471pt.
+ [11 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c1_g1
+_nfreq.png> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errso
+r_c1_w4_nfreq.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c2_g1_w
+1.png, id=87, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c2
+_g1_w1.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c2_
+g1_w1.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/algb_conv_c2_g1_w1.png used on input line 399.
+(pdftex.def)             Requested size: 308.71107pt x 192.94264pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_3d.png, id=
+88, 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_3d.png
+ Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_3d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/p_an2_3d.png used on input line 411.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_2d.png, id=
+89, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_2d.png
+ Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_2d.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/p_an2_2d.png used on input line 412.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case2.png, i
+d=90, 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case2.p
+ng Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case2.pn
+g>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/J_3D_case2.png used on input line 414.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case2.png, i
+d=91, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case2.p
+ng Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case2.pn
+g>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/J_2D_case2.png used on input line 415.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3dc2.png, id=9
+2, 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3dc2.png 
+Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3dc2.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pGS3dc2.png used on input line 417.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2dc2.png, id=9
+3, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2dc2.png 
+Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2dc2.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pGS2dc2.png used on input line 418.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3dc2.png, id=
+94, 794.97pt x 505.89pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3dc2.png
+ Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3dc2.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pSOR3dc2.png used on input line 420.
+(pdftex.def)             Requested size: 176.4044pt x 112.25333pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR2dc2.png, id=
+95, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR2dc2.png
+ Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR2dc2.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/pSOR2dc2.png used on input line 421.
+(pdftex.def)             Requested size: 176.4044pt x 110.25294pt.
+[12 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c1_w5_
+nfreq.png> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_c
+onv_c2_g1_w1.png>] <errj_c2_g1_w1.png, id=101, 578.16pt x 578.16pt>
+File: errj_c2_g1_w1.png Graphic file (type png)
+
+<use errj_c2_g1_w1.png>
+Package pdftex.def Info: errj_c2_g1_w1.png used on input line 431.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+ <errgs_c2_g1_w1.png, id=102, 578.16pt x 578.16pt>
+File: errgs_c2_g1_w1.png Graphic file (type png)
+
+<use errgs_c2_g1_w1.png>
+Package pdftex.def Info: errgs_c2_g1_w1.png used on input line 432.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+ <errsor_c2_g1_w1.png, id=103, 578.16pt x 578.16pt>
+File: errsor_c2_g1_w1.png Graphic file (type png)
+
+<use errsor_c2_g1_w1.png>
+Package pdftex.def Info: errsor_c2_g1_w1.png used on input line 433.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+ [13 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_3d.png
+> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/p_an2_2d.png> <
+/Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_3D_case2.png> </
+Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/J_2D_case2.png> </U
+sers/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS3dc2.png> </Users
+/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pGS2dc2.png> </Users/Lui
+s/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR3dc2.png> </Users/Luis/D
+ocuments/GW/MAE6225_cfd/ccg_poisson/latex_plots/pSOR2dc2.png>]
+Overfull \vbox (37.62343pt too high) has occurred while \output is active []
+
+
+[14 <./errj_c2_g1_w1.png> <./errgs_c2_g1_w1.png> <./errsor_c2_g1_w1.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c2_g1_w
+1_omega.png, id=122, 578.16pt x 361.35pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c2
+_g1_w1_omega.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c2_
+g1_w1_omega.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/algb_conv_c2_g1_w1_omega.png used on input line 445.
+(pdftex.def)             Requested size: 220.50887pt x 137.81618pt.
+ <algb_conv_c2_g3_w1_omega.png, id=123, 578.16pt x 361.35pt>
+File: algb_conv_c2_g3_w1_omega.png Graphic file (type png)
+
+<use algb_conv_c2_g3_w1_omega.png>
+Package pdftex.def Info: algb_conv_c2_g3_w1_omega.png used on input line 455.
+(pdftex.def)             Requested size: 220.50887pt x 137.81618pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c2_g1_w1_o
+mega.png, id=124, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c2_g1
+_w1_omega.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c2_g1_
+w1_omega.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/err_an_c2_g1_w1_omega.png used on input line 468.
+(pdftex.def)             Requested size: 220.50887pt x 220.50587pt.
+ [15 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/algb_conv_c2
+_g1_w1_omega.png> <./algb_conv_c2_g3_w1_omega.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c2_g1_nfre
+q.png, id=130, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c2_g1
+_nfreq.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c2_g1_
+nfreq.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/err_an_c2_g1_nfreq.png used on input line 484.
+(pdftex.def)             Requested size: 176.4044pt x 176.40471pt.
+
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c2_w4_nfre
+q.png, id=131, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c2_w4
+_nfreq.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c2_w4_
+nfreq.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/errsor_c2_w4_nfreq.png used on input line 492.
+(pdftex.def)             Requested size: 176.4044pt x 176.40471pt.
+ [16 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/err_an_c2_g1
+_w1_omega.png> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/er
+r_an_c2_g1_nfreq.png>]
+</Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c2_w5_nfre
+q.png, id=137, 578.16pt x 578.16pt>
+File: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c2_w5
+_nfreq.png Graphic file (type png)
+
+<use /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c2_w5_
+nfreq.png>
+Package pdftex.def Info: /Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex
+_plots/errsor_c2_w5_nfreq.png used on input line 500.
+(pdftex.def)             Requested size: 176.4044pt x 176.40471pt.
+ [17 </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errsor_c2_w4
+_nfreq.png> </Users/Luis/Documents/GW/MAE6225_cfd/ccg_poisson/latex_plots/errso
+r_c2_w5_nfreq.png>] [18] (./Poisson_Report.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3534 strings out of 493089
+ 58057 string characters out of 6134842
+ 131696 words of memory out of 5000000
+ 6936 multiletter control sequences out of 15000+600000
+ 9759 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,13n,24p,1003b,262s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/
+texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
+live/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texl
+ive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texliv
+e/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Poisson_Report.pdf (18 pages, 1259335 bytes).
+PDF statistics:
+ 185 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
+
